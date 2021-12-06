@@ -18,4 +18,4 @@ Follow the instructions in the comments to add the required code. (Please Do not
 
 
 ## Assignment Submission
-Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the Assignment Portal, as usual and don't hesitate to hit up the Slack channel as needed!
